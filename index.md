@@ -6,3 +6,4 @@ This is a sample project to practice branching and merging with a group. Look at
 
 1. Angelica Lopez
 2. Chris
+3. Luisa
